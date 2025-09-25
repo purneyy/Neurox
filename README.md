@@ -1,4 +1,4 @@
-This was developed as a solution for a hackathon and this was awarded for a consolation prize.
+This was developed as a solution for a hackathon and was awarded a consolation prize for the best idea implementation criteria
 ---
 
 ## 🧠 NeuroX – AI-Powered Cognitive Health Management Platform
