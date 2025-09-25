@@ -1,4 +1,4 @@
-
+This was developed as a solution for a hackathon and this was awarded for a consolation prize.
 ---
 
 ## 🧠 NeuroX – AI-Powered Cognitive Health Management Platform
